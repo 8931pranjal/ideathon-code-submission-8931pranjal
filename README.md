@@ -2,7 +2,10 @@
 # DSA_Project_bank
 # Group Project
 #Team members-
-Pranjal Patel(B21BB024)
+Pranjal Patel
+Prince Sonker
+Dhananjay Singh Bauddha
+Dhruve Shivhare
 
 # Basic information of Project
 #we have prepared a banking model 
